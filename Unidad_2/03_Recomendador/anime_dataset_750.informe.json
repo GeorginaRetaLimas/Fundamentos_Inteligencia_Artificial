@@ -1,0 +1,42 @@
+{
+  "fuentes": [
+    "https://animeflv.or.at",
+    "https://tioanime.com"
+  ],
+  "registros_animeflv": 180,
+  "registros_tioanime": 570,
+  "objetivo": 750,
+  "fichas_en_sitemap": 191,
+  "registros_guardados": 750,
+  "faltantes": 0,
+  "errores": [
+    {
+      "url": "https://animeflv.or.at/anime/bang-dream-yume%e2%88%9emita/",
+      "error": "Ficha incompleta",
+      "titulo": false,
+      "resena": false,
+      "generos": false
+    },
+    {
+      "url": "https://animeflv.or.at/anime/keroro-gunsou%e2%98%86/",
+      "error": "Ficha incompleta",
+      "titulo": false,
+      "resena": false,
+      "generos": false
+    },
+    {
+      "url": "https://animeflv.or.at/anime/magical%e2%98%85explorer/",
+      "error": "Ficha incompleta",
+      "titulo": false,
+      "resena": false,
+      "generos": false
+    },
+    {
+      "url": "https://animeflv.or.at/anime/ranma-%c2%bd-2024-3rd-season/",
+      "error": "Ficha incompleta",
+      "titulo": false,
+      "resena": false,
+      "generos": false
+    }
+  ]
+}
